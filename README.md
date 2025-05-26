@@ -2,7 +2,7 @@
 
 *OpenSource | Loot Bag on Death for QBCore*
 
-- ensure xd-lootbag
+- ensure xd-lootbag-main
 
 Dependencies
 + qb-inventory
